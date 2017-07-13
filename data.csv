@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Id,Rec,Col,Col2
 1,One,X,1
 2,Two,D,2
@@ -13,19 +12,3 @@ Id,Rec,Col,Col2
 11,Eleven,F,11
 12,Twelve,G,12
 14,Fourteen,Q,13
-=======
-Id,Rec,Col,Col1,Col2
-1,One,X,,
-2,Two,D,,
-3,Three,M,,
-4,F,X,,
-5,F,X,,
-6,Six,D,,
-7,Seven,Q,,
-8,E,P,,
-9,N,C,,
-10,T,D,,
-11,Eleven,F,,
-12,Twelve,G,,
-14,Fourteen,Q,,
->>>>>>> master
